@@ -29,7 +29,7 @@ Manages team details (team code, name, seeding, kit color).
 Stores player information, including their team association.
 Skills Demonstrated: Database management using arrays, data insertion and deletion, as well as search functionalities.
 
-5. World Cup Database (Advanced Version) 🏆🌍
+4. World Cup Database (Advanced Version) 🏆🌍
    
 Description: An enhanced version of the World Cup Database that includes advanced management for both teams and players.
 Features:
