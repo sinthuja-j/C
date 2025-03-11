@@ -7,13 +7,14 @@ Welcome to my C programming projects repository! This collection highlights four
 Projects ✨
 
 1. Converter 🔄
+   
 Description: A utility program designed to convert units between different measurement systems, such as length, weight, and temperature.
 Features:
 Input: Allows users to select the type of conversion (length, temperature, etc.).
 Output: Returns the converted value in the desired unit.
 Skills Demonstrated: Working with arithmetic operations, conditional statements, and user input handling.
 
-2. Array Project 📊
+3. Array Project 📊
 
 Description: A project focused on performing various operations using arrays, such as searching, sorting, and manipulating data.
 Features:
