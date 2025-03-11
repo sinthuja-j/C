@@ -14,7 +14,7 @@ Input: Allows users to select the type of conversion (length, temperature, etc.)
 Output: Returns the converted value in the desired unit.
 Skills Demonstrated: Working with arithmetic operations, conditional statements, and user input handling.
 
-3. Array Project 📊
+2. Array Project 📊
 
 Description: A project focused on performing various operations using arrays, such as searching, sorting, and manipulating data.
 Features:
